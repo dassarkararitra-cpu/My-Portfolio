@@ -65,4 +65,4 @@ This project is perfectly optimized for Netlify's free tier.
 Within seconds, your portfolio will be live on the internet! 
 
 ---
-*Designed & Developed by [Your Name]*
+*Designed & Developed by DSaritra*
